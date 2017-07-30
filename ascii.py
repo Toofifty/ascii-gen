@@ -1,5 +1,4 @@
 from PIL import Image
-from getalpha import load_quarters
 import random
 import sys
 
